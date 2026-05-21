@@ -1,0 +1,13 @@
+Algoritmo edad
+	definir tuedad Como Entero
+	escribir "ingresa tu edad"
+	leer tuedad
+	si tuedad >=18 Entonces
+		escribir "puedes votar"
+	SiNo
+		escribir "no puedes votar"
+	fin si
+	
+		
+	
+FinAlgoritmo

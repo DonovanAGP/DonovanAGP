@@ -1,0 +1,13 @@
+Algoritmo jovenoadulto
+	definir edad como entero
+	escribir "ingresa tu edad"
+	leer edad 
+	si edad < 18 entonces 
+		escribir "eres joven"
+	SiNo
+		escribir "eres adulto"
+		
+		
+	FinSi
+	
+FinAlgoritmo

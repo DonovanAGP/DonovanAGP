@@ -1,0 +1,12 @@
+Algoritmo calificacion
+	definir cal Como Real
+	escribir "ingresa tu calificacion"
+	leer cal
+	si cal > 5 Entonces
+		escribir "aprobado"
+	SiNo
+		escribir "reprobado"
+		
+	FinSi
+	
+FinAlgoritmo

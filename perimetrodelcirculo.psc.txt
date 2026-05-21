@@ -1,0 +1,8 @@
+Algoritmo perimetrodelcirculo
+	definir radio, perimetro Como Reales
+	escribir "ingresa el radio del circulo"
+	leer radio
+	perimetro = 2 * pi * radio
+	escribir "elperimetro del circulo es"
+	
+FinAlgoritmo

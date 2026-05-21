@@ -1,0 +1,11 @@
+Algoritmo suma
+	definir num1 Como Entero
+	definir num2 como entero 
+	definir resultado como entero 
+	escribir "INGRESA PRIMER NUMERO"
+	leer num1
+	escribir"INGRESA SEGUNDO NUMERO"
+	LEER num2
+	resultado = num1 + num2
+	escribir "EL RESULTADO ES" , resultado
+FinAlgoritmo

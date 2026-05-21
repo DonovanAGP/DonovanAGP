@@ -1,0 +1,11 @@
+Algoritmo division
+	definir num1 como entero 
+	definir num2 Como Entero
+	definir resultado Como Entero
+	escribir "ingresa primer numero"
+	leer num1
+	escribir "ingresa segundo numero"
+	leer num2
+	escribir "el resultado es: ", resultado
+	
+FinAlgoritmo

@@ -1,0 +1,10 @@
+Algoritmo contarregresivo
+	definir i Como Entero
+	i <- 5
+	mientras i >=0 Hacer
+		escribir i
+		i <- i - 1
+		
+	FinMientras
+	
+FinAlgoritmo

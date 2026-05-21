@@ -1,0 +1,17 @@
+Algoritmo aptoprestamo
+	definir edad, ingresos Como Entero
+	definir histriL Como Caracter
+	escribir "ingresa tu edad"
+	leer edad
+	escribir "ingresa tus ingresos mensuales"
+	leer historial
+	si ( edad >= 21 y ingresos > 1000 y historial = "bueno" ) Entonces
+		escribir "apto para prestamo" 
+	SiNo
+		escribir "no apto para prestamo"
+		
+
+	FinSi
+	
+	
+FinAlgoritmo

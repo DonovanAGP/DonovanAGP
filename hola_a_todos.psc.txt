@@ -1,0 +1,8 @@
+Algoritmo hola_a_todos
+	n <- 1
+	mientras n <= 5 Hacer
+		n = n + 1
+		
+	FinMientras
+	
+FinAlgoritmo

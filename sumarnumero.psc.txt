@@ -1,0 +1,10 @@
+Algoritmo sumarnumero
+	Definir num, suma  como real	
+	suma <- 0
+	escribir "ingresa numero ( 0 para terminar)"
+	repetir 
+		leer num
+		suma <- suma + num
+		
+	Hasta Que "LA SUMA ES: ", suma
+FinAlgoritmo
